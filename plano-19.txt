@@ -1,0 +1,25 @@
+{
+  "actions" : [ {
+    "actionType" : "leave",
+    "actionParameter" : "17"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "19",
+      "to" : "17",
+      "message" : "AGENTE Karol SAIU DA SALA jkl",
+      "timestamp" : "2020-11-08T23:26:59.0212009"
+    }
+  }, {
+    "actionType" : "move",
+    "actionParameter" : "13"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "19",
+      "to" : "13",
+      "message" : "AGENTE Karol ENTROU NA SALA ghi",
+      "timestamp" : "2020-11-08T23:26:59.0212009"
+    }
+  } ]
+}

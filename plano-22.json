@@ -1,0 +1,25 @@
+{
+  "actions" : [ {
+    "actionType" : "leave",
+    "actionParameter" : "21"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "22",
+      "to" : "21",
+      "message" : "AGENTE Meire SAIU DA SALA mno",
+      "timestamp" : "2020-11-08T23:26:59.0331935"
+    }
+  }, {
+    "actionType" : "move",
+    "actionParameter" : "17"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "22",
+      "to" : "17",
+      "message" : "AGENTE Meire ENTROU NA SALA jkl",
+      "timestamp" : "2020-11-08T23:26:59.0331935"
+    }
+  } ]
+}

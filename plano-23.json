@@ -1,0 +1,25 @@
+{
+  "actions" : [ {
+    "actionType" : "leave",
+    "actionParameter" : "21"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "23",
+      "to" : "21",
+      "message" : "AGENTE Nestor SAIU DA SALA mno",
+      "timestamp" : "2020-11-08T23:26:59.039191"
+    }
+  }, {
+    "actionType" : "move",
+    "actionParameter" : "5"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "23",
+      "to" : "5",
+      "message" : "AGENTE Nestor ENTROU NA SALA abc",
+      "timestamp" : "2020-11-08T23:26:59.039191"
+    }
+  } ]
+}

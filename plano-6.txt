@@ -1,0 +1,25 @@
+{
+  "actions" : [ {
+    "actionType" : "leave",
+    "actionParameter" : "5"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "6",
+      "to" : "5",
+      "message" : "AGENTE Augusto SAIU DA SALA abc",
+      "timestamp" : "2020-11-08T23:26:58.8764737"
+    }
+  }, {
+    "actionType" : "move",
+    "actionParameter" : "9"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "6",
+      "to" : "9",
+      "message" : "AGENTE Augusto ENTROU NA SALA def",
+      "timestamp" : "2020-11-08T23:26:58.8784735"
+    }
+  } ]
+}

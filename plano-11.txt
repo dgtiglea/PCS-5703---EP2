@@ -1,0 +1,25 @@
+{
+  "actions" : [ {
+    "actionType" : "leave",
+    "actionParameter" : "9"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "11",
+      "to" : "9",
+      "message" : "AGENTE Eduardo SAIU DA SALA def",
+      "timestamp" : "2020-11-08T23:26:58.9784162"
+    }
+  }, {
+    "actionType" : "move",
+    "actionParameter" : "17"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "11",
+      "to" : "17",
+      "message" : "AGENTE Eduardo ENTROU NA SALA jkl",
+      "timestamp" : "2020-11-08T23:26:58.9784162"
+    }
+  } ]
+}

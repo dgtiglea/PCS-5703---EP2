@@ -1,0 +1,25 @@
+{
+  "actions" : [ {
+    "actionType" : "leave",
+    "actionParameter" : "9"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "10",
+      "to" : "9",
+      "message" : "AGENTE Denis SAIU DA SALA def",
+      "timestamp" : "2020-11-08T23:26:58.9714199"
+    }
+  }, {
+    "actionType" : "move",
+    "actionParameter" : "17"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "10",
+      "to" : "17",
+      "message" : "AGENTE Denis ENTROU NA SALA jkl",
+      "timestamp" : "2020-11-08T23:26:58.9714199"
+    }
+  } ]
+}

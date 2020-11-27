@@ -1,0 +1,25 @@
+{
+  "actions" : [ {
+    "actionType" : "leave",
+    "actionParameter" : "9"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "12",
+      "to" : "9",
+      "message" : "AGENTE Fernando SAIU DA SALA def",
+      "timestamp" : "2020-11-08T23:26:58.985412"
+    }
+  }, {
+    "actionType" : "move",
+    "actionParameter" : "5"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "12",
+      "to" : "5",
+      "message" : "AGENTE Fernando ENTROU NA SALA abc",
+      "timestamp" : "2020-11-08T23:26:58.985412"
+    }
+  } ]
+}

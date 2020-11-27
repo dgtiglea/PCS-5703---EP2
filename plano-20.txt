@@ -1,0 +1,25 @@
+{
+  "actions" : [ {
+    "actionType" : "leave",
+    "actionParameter" : "17"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "20",
+      "to" : "17",
+      "message" : "AGENTE Leandro SAIU DA SALA jkl",
+      "timestamp" : "2020-11-08T23:26:59.0262154"
+    }
+  }, {
+    "actionType" : "move",
+    "actionParameter" : "9"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "20",
+      "to" : "9",
+      "message" : "AGENTE Leandro ENTROU NA SALA def",
+      "timestamp" : "2020-11-08T23:26:59.0262154"
+    }
+  } ]
+}

@@ -1,0 +1,25 @@
+{
+  "actions" : [ {
+    "actionType" : "leave",
+    "actionParameter" : "21"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "24",
+      "to" : "21",
+      "message" : "AGENTE Otavio SAIU DA SALA mno",
+      "timestamp" : "2020-11-08T23:26:59.0491852"
+    }
+  }, {
+    "actionType" : "move",
+    "actionParameter" : "5"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "24",
+      "to" : "5",
+      "message" : "AGENTE Otavio ENTROU NA SALA abc",
+      "timestamp" : "2020-11-08T23:26:59.0491852"
+    }
+  } ]
+}

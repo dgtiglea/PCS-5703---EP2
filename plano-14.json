@@ -1,0 +1,25 @@
+{
+  "actions" : [ {
+    "actionType" : "leave",
+    "actionParameter" : "13"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "14",
+      "to" : "13",
+      "message" : "AGENTE Geraldo SAIU DA SALA ghi",
+      "timestamp" : "2020-11-08T23:26:58.9924076"
+    }
+  }, {
+    "actionType" : "move",
+    "actionParameter" : "5"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "14",
+      "to" : "5",
+      "message" : "AGENTE Geraldo ENTROU NA SALA abc",
+      "timestamp" : "2020-11-08T23:26:58.9924076"
+    }
+  } ]
+}

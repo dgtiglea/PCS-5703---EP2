@@ -1,0 +1,25 @@
+{
+  "actions" : [ {
+    "actionType" : "leave",
+    "actionParameter" : "13"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "15",
+      "to" : "13",
+      "message" : "AGENTE Haroldo SAIU DA SALA ghi",
+      "timestamp" : "2020-11-08T23:26:58.9997211"
+    }
+  }, {
+    "actionType" : "move",
+    "actionParameter" : "21"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "15",
+      "to" : "21",
+      "message" : "AGENTE Haroldo ENTROU NA SALA mno",
+      "timestamp" : "2020-11-08T23:26:58.9997211"
+    }
+  } ]
+}

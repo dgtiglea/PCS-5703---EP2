@@ -1,0 +1,25 @@
+{
+  "actions" : [ {
+    "actionType" : "leave",
+    "actionParameter" : "5"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "8",
+      "to" : "5",
+      "message" : "AGENTE Cecilia SAIU DA SALA abc",
+      "timestamp" : "2020-11-08T23:26:58.964424"
+    }
+  }, {
+    "actionType" : "move",
+    "actionParameter" : "17"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "8",
+      "to" : "17",
+      "message" : "AGENTE Cecilia ENTROU NA SALA jkl",
+      "timestamp" : "2020-11-08T23:26:58.9654279"
+    }
+  } ]
+}

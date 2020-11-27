@@ -1,0 +1,151 @@
+[ {
+  "to" : "11",
+  "from" : "10",
+  "message" : "AGENTE Denis SAIU DA SALA def",
+  "timestamp" : "2020-11-08T23:26:59.095"
+}, {
+  "to" : "10",
+  "from" : "10",
+  "message" : "AGENTE Denis ENTROU NA SALA jkl",
+  "timestamp" : "2020-11-08T23:27:04.163"
+}, {
+  "to" : "10",
+  "from" : "20",
+  "message" : "AGENTE Leandro SAIU DA SALA jkl",
+  "timestamp" : "2020-11-08T23:27:07.235"
+}, {
+  "to" : "11",
+  "from" : "20",
+  "message" : "AGENTE Leandro ENTROU NA SALA def",
+  "timestamp" : "2020-11-08T23:27:08.257"
+}, {
+  "to" : "12",
+  "from" : "11",
+  "message" : "AGENTE Eduardo SAIU DA SALA def",
+  "timestamp" : "2020-11-08T23:27:11.388"
+}, {
+  "to" : "10",
+  "from" : "11",
+  "message" : "AGENTE Eduardo ENTROU NA SALA jkl",
+  "timestamp" : "2020-11-08T23:27:15.537"
+}, {
+  "to" : "10",
+  "from" : "18",
+  "message" : "AGENTE Joao SAIU DA SALA jkl",
+  "timestamp" : "2020-11-08T23:27:18.699"
+}, {
+  "to" : "14",
+  "from" : "18",
+  "message" : "AGENTE Joao ENTROU NA SALA ghi",
+  "timestamp" : "2020-11-08T23:27:20.799"
+}, {
+  "to" : "15",
+  "from" : "14",
+  "message" : "AGENTE Geraldo SAIU DA SALA ghi",
+  "timestamp" : "2020-11-08T23:27:25.059"
+}, {
+  "to" : "6",
+  "from" : "14",
+  "message" : "AGENTE Geraldo ENTROU NA SALA abc",
+  "timestamp" : "2020-11-08T23:27:28.187"
+}, {
+  "to" : "6",
+  "from" : "8",
+  "message" : "AGENTE Cecilia SAIU DA SALA abc",
+  "timestamp" : "2020-11-08T23:27:32.513"
+}, {
+  "to" : "8",
+  "from" : "8",
+  "message" : "AGENTE Cecilia ENTROU NA SALA jkl",
+  "timestamp" : "2020-11-08T23:27:38.888"
+}, {
+  "to" : "8",
+  "from" : "19",
+  "message" : "AGENTE Karol SAIU DA SALA jkl",
+  "timestamp" : "2020-11-08T23:27:42.07"
+}, {
+  "to" : "15",
+  "from" : "19",
+  "message" : "AGENTE Karol ENTROU NA SALA ghi",
+  "timestamp" : "2020-11-08T23:27:43.125"
+}, {
+  "to" : "15",
+  "from" : "16",
+  "message" : "AGENTE Igor SAIU DA SALA ghi",
+  "timestamp" : "2020-11-08T23:27:47.449"
+}, {
+  "to" : "16",
+  "from" : "16",
+  "message" : "AGENTE Igor ENTROU NA SALA mno",
+  "timestamp" : "2020-11-08T23:27:53.858"
+}, {
+  "to" : "16",
+  "from" : "22",
+  "message" : "AGENTE Meire SAIU DA SALA mno",
+  "timestamp" : "2020-11-08T23:27:57.093"
+}, {
+  "to" : "8",
+  "from" : "22",
+  "message" : "AGENTE Meire ENTROU NA SALA jkl",
+  "timestamp" : "2020-11-08T23:28:00.31"
+}, {
+  "to" : "18",
+  "from" : "15",
+  "message" : "AGENTE Haroldo SAIU DA SALA ghi",
+  "timestamp" : "2020-11-08T23:28:02.495"
+}, {
+  "to" : "15",
+  "from" : "15",
+  "message" : "AGENTE Haroldo ENTROU NA SALA mno",
+  "timestamp" : "2020-11-08T23:28:07.956"
+}, {
+  "to" : "15",
+  "from" : "23",
+  "message" : "AGENTE Nestor SAIU DA SALA mno",
+  "timestamp" : "2020-11-08T23:28:11.211"
+}, {
+  "to" : "6",
+  "from" : "23",
+  "message" : "AGENTE Nestor ENTROU NA SALA abc",
+  "timestamp" : "2020-11-08T23:28:12.317"
+}, {
+  "to" : "6",
+  "from" : "7",
+  "message" : "AGENTE Bruna SAIU DA SALA abc",
+  "timestamp" : "2020-11-08T23:28:16.713"
+}, {
+  "to" : "7",
+  "from" : "7",
+  "message" : "AGENTE Bruna ENTROU NA SALA mno",
+  "timestamp" : "2020-11-08T23:28:23.327"
+}, {
+  "to" : "7",
+  "from" : "24",
+  "message" : "AGENTE Otavio SAIU DA SALA mno",
+  "timestamp" : "2020-11-08T23:28:26.612"
+}, {
+  "to" : "6",
+  "from" : "24",
+  "message" : "AGENTE Otavio ENTROU NA SALA abc",
+  "timestamp" : "2020-11-08T23:28:27.652"
+}, {
+  "to" : "14",
+  "from" : "6",
+  "message" : "AGENTE Augusto SAIU DA SALA abc",
+  "timestamp" : "2020-11-08T23:28:32.047"
+}, {
+  "to" : "6",
+  "from" : "6",
+  "message" : "AGENTE Augusto ENTROU NA SALA def",
+  "timestamp" : "2020-11-08T23:28:37.603"
+}, {
+  "to" : "6",
+  "from" : "12",
+  "message" : "AGENTE Fernando SAIU DA SALA def",
+  "timestamp" : "2020-11-08T23:28:39.889"
+}, {
+  "to" : "12",
+  "from" : "12",
+  "message" : "AGENTE Fernando ENTROU NA SALA abc",
+  "timestamp" : "2020-11-08T23:28:44.301"
+} ]

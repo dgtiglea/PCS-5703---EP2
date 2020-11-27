@@ -1,0 +1,25 @@
+{
+  "actions" : [ {
+    "actionType" : "leave",
+    "actionParameter" : "5"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "7",
+      "to" : "5",
+      "message" : "AGENTE Bruna SAIU DA SALA abc",
+      "timestamp" : "2020-11-08T23:26:58.9574286"
+    }
+  }, {
+    "actionType" : "move",
+    "actionParameter" : "21"
+  }, {
+    "actionType" : "message",
+    "actionParameter" : {
+      "from" : "7",
+      "to" : "21",
+      "message" : "AGENTE Bruna ENTROU NA SALA mno",
+      "timestamp" : "2020-11-08T23:26:58.9574286"
+    }
+  } ]
+}
